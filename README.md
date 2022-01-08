@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Yacine's GitHub stats](https://github-readme-stats.vercel.app/api?username=yacinebouaouni&count_private=true&theme=tokyonight)
-
-
+<a href = "https://github-readme-stats.vercel.app/api?username=yacinebouaouni&count_private=true&theme=tokyonight&show_icons=true"> y </a>
+![Yacine's GitHub stats](https://github-readme-stats.vercel.app/api?username=yacinebouaouni&count_private=true&theme=tokyonight&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yacinebouaouni&hide=jupyter%20notebook,SCSS,CSS,HTML,TSQL)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
