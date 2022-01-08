@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://www.linkedin.com/in/yacine-bouaouni-4b0698175/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
-<a href = "https://github-readme-stats.vercel.app/api?username=yacinebouaouni&count_private=true&theme=tokyonight&show_icons=true"> y </a>
-![Yacine's GitHub stats](https://github-readme-stats.vercel.app/api?username=yacinebouaouni&count_private=true&theme=tokyonight&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yacinebouaouni&hide=jupyter%20notebook,SCSS,CSS,HTML,TSQL)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yacinebouaouni&count_private=true&theme=tokyonight&show_icons=true" alt="yacine's stats" />
+
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yacinebouaouni&hide=jupyter%20notebook,SCSS,CSS,HTML,TSQL&theme=tokyonight" alt="yacine's stats" />
