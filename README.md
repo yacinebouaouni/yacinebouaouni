@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <a href="https://www.linkedin.com/in/yacine-bouaouni-4b0698175/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yacinebouaouni&count_private=true&theme=tokyonight&show_icons=true" alt="yacine's stats" />
 
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yacinebouaouni&hide=jupyter%20notebook,SCSS,CSS,HTML,TSQL&theme=tokyonight" alt="yacine's stats" />
+-->
