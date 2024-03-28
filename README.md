@@ -1,8 +1,8 @@
+<h3>Where to find me</h3>
+<p><a href="[https://github.com/thmsgbrt](https://github.com/yacinebouaouni)" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="[https://www.linkedin.com/in/thomas-guibert](https://www.linkedin.com/in/yacine-bouaouni-4b0698175/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@yacinebouaouni07" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/abhishek-choudharys/](https://www.linkedin.com/in/yacine-bouaouni-4b0698175/)) [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:yacinebouaouni07@gmail.com) 
-![Visits Badge](https://badges.pufler.dev/visits/yacinebouaouni/yacinebouaouni?style=for-the-badge)
 
 
 <p>
